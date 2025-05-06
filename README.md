@@ -7,7 +7,7 @@
 
 > **Authors**  
 > Kaibo Zhang, Mingshu Liu, Yanfei Wu, David Min, and Charlie Tomlinson  
-> **Affiliation**: McGill University (MGSC 407 - Retail Analytics)  
+> **Affiliation**: McGill University (RETL 407 - Retail Analytics)  
 ---
 
 ## 🧠 Overview
