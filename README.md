@@ -102,8 +102,9 @@ This project presents a full-stack data-driven framework to optimize **multi-ite
 ---
 
 ## 📌 References
-- [1] Cohen & Perakis. "Promotion Optimization in Retail", SSRN 2018  
-- [2] Triebe et al. "NeuralProphet: Explainable ForecastiDng at Scale", arXiv 2021  
+- [1] Couche-Tard Corporate Site: https://corporate.couche-tard.com  
+- [2] Cohen & Perakis. "Promotion Optimization in Retail", SSRN 2018  
+- [3] Triebe et al. "NeuralProphet: Explainable Forecasting at Scale", arXiv 2021  
 
 ---
 
