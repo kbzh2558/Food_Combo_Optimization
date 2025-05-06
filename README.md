@@ -23,6 +23,18 @@ This project presents a full-stack data-driven framework to optimize **multi-ite
 
 ---
 
+## 📁 Directory Structure
+```
+├── phase1/ # Code and data used for initial itemset mining and exploratory combo design
+├── phase2/ # Demand modeling scripts including NeuralProphet and regression models
+├── phase3/ # Linear programming formulation and combo optimization code
+├── price_sensitivity/ # Category-level price elasticity analysis with brand comparisons
+├── result/ # Raw combo outputs from optimization results
+├── validation/ # Survey design, NPS analysis, and NLP-based feedback evaluation
+```
+
+---
+
 ## 🛒 Dataset Description
 
 ### 🔹 Internal Data
@@ -108,6 +120,14 @@ This project presents a full-stack data-driven framework to optimize **multi-ite
 
 ---
 
-## 📬 
+## 🙏 Acknowledgments
+
+We would like to express our sincere gratitude to **Alimentation Couche-Tard** for their invaluable support and collaboration throughout this project. 
+
+A special thank you to **Ms. Marie-Eve Landreville-Bertrand**, *Gestionnaire principale, Centre d’Excellence Global* at Couche-Tard, for her continuous encouragement, insights, and generous access to real-world data that made this work possible.
+
+We are also grateful to [**Ms. Nymisha Bandi**](https://www.mcgill.ca/desautels/nymisha-bandi), Ph.D. candidate and teaching assistant, for her thoughtful guidance, constructive feedback, and technical support during every stage of the project.
+
+Finally, we deeply appreciate the supervision and mentorship of [**Professor Saibal Ray**](https://www.mcgill.ca/desautels/saibal-ray), whose expertise and leadership in operations management helped shape our analysis and approach.
 
 ---
